@@ -1,4 +1,4 @@
-Brand that can be used across R Contributor projects.
+A [brand.yml](https://posit-dev.github.io/brand-yml/) brand that can be used across R Contributor projects.
 
 Add to a project with
 
