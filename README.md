@@ -3,7 +3,7 @@ A [brand.yml](https://posit-dev.github.io/brand-yml/) brand that can be used acr
 Add to a project with
 
 ```
-quarto add brand r-devel/brand
+quarto use brand r-devel/brand
 ```
 
 This provides:
